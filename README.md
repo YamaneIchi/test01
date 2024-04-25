@@ -1,3 +1,3 @@
 # test01
 J4Webdavaaaaaaaa
-Git・Githubの基礎で利用するリポジトリです。
+Git・Githubの基礎の起訴で利用するリポジトリです。
